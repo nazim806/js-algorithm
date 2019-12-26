@@ -2,17 +2,15 @@
 
 Popular algorithms using javascript
 
-Arrays: 
+Arrays:
 
-Array from range, count occurrences, except, includes, max, move, 
+Array from range, count occurrences, except, includes, max, move,
 
-
-Control-flow: 
+Control-flow:
 
 Even or Odd, Fizzbuzz, max number, Prime Number
 
-
-Dom Manipulation: 
+Dom Manipulation:
 
 Current time and date.
 
@@ -20,7 +18,12 @@ String reversal
 
 Palindrome
 
+Anagram,
 
+Sentence Capitalization, Array chunking, vowel counts, word reversal, MaxChars,
 
-Anagram, Sentence Capitilization, Array chunking, string reversal, vowel counts, word reversal, MaxChars, 
+Sieve of Eratosthenes
 
+Caesar cipher
+
+Staircase, pyramid, Fibonacci
