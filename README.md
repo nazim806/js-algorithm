@@ -9,5 +9,5 @@ Palindrome
 
 Fizzbuzz
 
-Anagram
+Anagram, Sentence Capitilization, Array chunking, string reversal, vowel counts, word reversal, MaxChars, 
 
