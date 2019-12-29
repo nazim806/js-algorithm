@@ -4,7 +4,7 @@ Popular algorithms using javascript
 
 Arrays:
 
-Array from range, count occurrences, except, includes, max, move,
+Array from range, count occurrences, except, includes, max, move,array chunking, hamming distance
 
 Control-flow:
 
