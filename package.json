@@ -1,0 +1,22 @@
+{
+  "name": "js-algorithm",
+  "version": "1.0.0",
+  "description": "Javascript Algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazim806/js-algorithm.git"
+  },
+  "author": "Nazim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazim806/js-algorithm/issues"
+  },
+  "homepage": "https://github.com/nazim806/js-algorithm#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
