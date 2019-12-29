@@ -2,15 +2,15 @@
 
 Popular algorithms using javascript
 
-Arrays:
+**Arrays:**
 
 Array from range, count occurrences, except, includes, max, move,array chunking, hamming distance
 
-Control-flow:
+**Control-flow:**
 
 Even or Odd, Fizzbuzz, max number, Prime Number
 
-Dom Manipulation:
+**Dom Manipulation:**
 
 Current time and date.
 
@@ -20,7 +20,7 @@ Palindrome
 
 Anagram,
 
-Sentence Capitalization, Array chunking, vowel counts, word reversal, MaxChars,
+Sentence Capitalization, vowel counts, word reversal, MaxChars,
 
 Sieve of Eratosthenes
 
