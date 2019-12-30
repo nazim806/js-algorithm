@@ -27,3 +27,5 @@ Sieve of Eratosthenes
 Caesar cipher
 
 Staircase, pyramid, Fibonacci
+
+Data Structure and sorting
