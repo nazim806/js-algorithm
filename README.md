@@ -4,28 +4,61 @@ Popular algorithms using javascript
 
 **Arrays:**
 
-Array from range, count occurrences, except, includes, max, move,array chunking, hamming distance
+Array from range, chunk array, count occurrences, except, hemming distance, includes, integer reversal, longest word, max, 
+
+max character, move, reverse array, search replace, string reversal.
+
+**Functions:**
+
+areaOfCircle.js	
+
+checkSpeed.js	
+
+fibonacci.js	
+
+sumOfArgs.js
+
 
 **Control-flow:**
 
 Even or Odd, Fizzbuzz, max number, Prime Number
 
+countTruthy.js	
+
+grade.js	
+
+stars.js
+
 **Dom Manipulation:**
 
 Current time and date.
 
+Operator
+
 String reversal
+
+**Objects:**
 
 Palindrome
 
 Anagram,
 
-Sentence Capitalization, vowel counts, word reversal, MaxChars,
+Sentence Capitalization,
+
+factorial 
+
+vowel Counter
+
+
+
+word reversal, 
 
 Sieve of Eratosthenes
 
 Caesar cipher
 
-Staircase, pyramid, Fibonacci
+Staircase, pyramid, 
 
-Data Structure and sorting
+Data Structure and sorting:
+
+

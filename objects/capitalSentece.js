@@ -3,7 +3,7 @@ function capitalSentence(text) {
   let capsArray = [];
 
   wordsArray.forEach(word => {
-    capsArray.push(wprd[0].toUpperCase() + word.slice(1));
+    capsArray.push(word[0].toUpperCase() + word.slice(1));
   });
 
   return capsArray.join(" ");
