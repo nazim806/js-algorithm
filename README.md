@@ -23,13 +23,21 @@ sumOfArgs.js
 
 Even or Odd, Fizzbuzz, max number, Prime Number
 
+countTruthy.js	
+
+grade.js	
+
+stars.js
+
 **Dom Manipulation:**
 
 Current time and date.
 
+Operator
+
 String reversal
 
-Objects:
+**Objects:**
 
 Palindrome
 
@@ -39,18 +47,18 @@ Sentence Capitalization,
 
 factorial 
 
-
-
 vowel Counter
 
 
 
- vowel counts, word reversal, MaxChars,
+word reversal, 
 
 Sieve of Eratosthenes
 
 Caesar cipher
 
-Staircase, pyramid, Fibonacci
+Staircase, pyramid, 
 
-Data Structure and sorting
+Data Structure and sorting:
+
+
