@@ -29,11 +29,23 @@ Current time and date.
 
 String reversal
 
+Objects:
+
 Palindrome
 
 Anagram,
 
-Sentence Capitalization, vowel counts, word reversal, MaxChars,
+Sentence Capitalization,
+
+factorial 
+
+
+
+vowel Counter
+
+
+
+ vowel counts, word reversal, MaxChars,
 
 Sieve of Eratosthenes
 
