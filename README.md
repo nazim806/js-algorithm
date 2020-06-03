@@ -4,7 +4,10 @@ Popular algorithms using javascript
 
 **Arrays:**
 
-Array from range, count occurrences, except, includes, max, move,array chunking, hamming distance
+Array from range, chunk array, count occurrences, except, hemming distance, includes, integer reversal, longest word, max, 
+
+max character, move, reverse array, search replace, string reversal.
+
 
 **Control-flow:**
 
