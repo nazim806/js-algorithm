@@ -8,6 +8,16 @@ Array from range, chunk array, count occurrences, except, hemming distance, incl
 
 max character, move, reverse array, search replace, string reversal.
 
+**Functions:**
+
+areaOfCircle.js	
+
+checkSpeed.js	
+
+fibonacci.js	
+
+sumOfArgs.js
+
 
 **Control-flow:**
 
