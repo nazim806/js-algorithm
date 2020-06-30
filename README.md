@@ -4,7 +4,11 @@ Popular algorithms using javascript
 
 **Arrays:**
 
-Array from range, chunk array, count occurrences, except, hemming distance, includes, integer reversal, longest word, max, 
+Array from range, chunk array, count occurrences, except, 
+
+Hamming distance: The Hamming distance between two integers is the number of positions at which the corresponding bits are different. 
+
+includes, integer reversal, longest word, max, 
 
 max character, move, reverse array, search replace, string reversal.
 
@@ -18,10 +22,14 @@ fibonacci.js
 
 sumOfArgs.js
 
+Staircase algorithm: 
+
 
 **Control-flow:**
 
-Even or Odd, Fizzbuzz, max number, Prime Number
+Even or Odd, Fizzbuzz, max number, 
+
+Prime Number: The sieve of Eratosthenes is one of the most efficient ways to find all primes smaller than n when n is smaller than 10 million or so.
 
 countTruthy.js	
 
@@ -34,8 +42,6 @@ stars.js
 Current time and date.
 
 Operator
-
-String reversal
 
 **Objects:**
 
@@ -50,15 +56,12 @@ factorial
 vowel Counter
 
 
+ 
 
-word reversal, 
-
-Sieve of Eratosthenes
 
 Caesar cipher
 
-Staircase, pyramid, 
+pyramid, 
 
-Data Structure and sorting:
 
 
